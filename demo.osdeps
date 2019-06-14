@@ -1,0 +1,7 @@
+nano:
+  ubuntu:
+    default: 
+      - nano
+
+numpy: pip
+xdg: gem

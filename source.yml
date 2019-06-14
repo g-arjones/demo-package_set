@@ -1,0 +1,4 @@
+name: demo
+version_control:
+  - demo_pkg:
+    github: g-arjones/demo_pkg
